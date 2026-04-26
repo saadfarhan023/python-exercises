@@ -1,4 +1,3 @@
-
 def get_input():
     nums = []
     while True:
@@ -7,11 +6,13 @@ def get_input():
             break
         nums.append(int(num))
     return nums
-    
+
+
 def print_data(nums):
     print(max(nums))
     print(min(nums))
     print(sum(nums) / len(nums))
+
 
 nums = get_input()
 print_data(nums)
