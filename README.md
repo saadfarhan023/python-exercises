@@ -1,7 +1,5 @@
 # Python Exercises
 
-## File Descriptions:
-
 *   `0_greet_user.py`: A simple script that prompts the user for their name and prints a personalized greeting.
 *   `1_even_or_odd.py`: Takes an integer as input and determines whether it is an even or odd number.
 *   `2_calculate_average.py`: Collects ten numbers from the user and calculates their average.
