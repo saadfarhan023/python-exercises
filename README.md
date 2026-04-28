@@ -1,6 +1,4 @@
-# Python Programming Files
-
-This directory contains a series of Python scripts, primarily for learning and demonstrating basic programming concepts. The files have been renamed to reflect their core functionality while maintaining their original numerical order.
+# Python Exercises
 
 ## File Descriptions:
 
